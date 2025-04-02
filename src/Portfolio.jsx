@@ -276,7 +276,7 @@ function Footer() {
 
 export default function Portfolio() {
   return (
-    <main className="bg-white dark:bg-gray-950 text-gray-900 dark:text-white font-sans">
+    <main className="bg-gradient-to-b from-white via-blue-50 to-white dark:bg-gray-950 text-gray-900 dark:text-white font-sans">
       <HeroSection />
       <AboutSection />
       <ProjectsSection />
